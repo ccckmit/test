@@ -1,0 +1,12 @@
+{
+  "name": "nn6",
+  "version": "0.0.3",
+  "description": "A Neural Network Framework",
+  "main": "lib/nn6.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ccckmit",
+  "license": "MIT",
+  "dependencies": {}
+}
